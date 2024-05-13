@@ -27,7 +27,7 @@ Verwendung von VSCode wird empfohlen - die wichtigsten Plugins & Extensions für
 **Debugging:**
 
 * In VSCode (leichter)
-* Mit DevTools (advanced) -> aktivieren über CMD `dart pub global activate devtools` (https://dart.dev/tools/dart-devtools)
+* Mit DevTools (advanced) -> aktivieren über CMD `dart pub global activate devtools` -> glaube es geht auch ohne aktivieren, schaue diese Doku an: https://dart.dev/tools/dart-devtools)
 * `dart run --pause-isolates-on-start --observe <dart-file>` um einen Link zu Dev Tools zu bekommen. Diesen dann in einen Chrome-Browser eingeben - fertig.
 * Für Flutter DevTools: https://docs.flutter.dev/tools/devtools/overview
 
