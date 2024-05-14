@@ -32,3 +32,6 @@ Syntax der Versionsnummern von Dependencies bzw. Packages (man sollte CARET Synt
 
 ---
 
+Man kann von vielen Packages abhängen muss nicht nur von pub.dev sein! Dann gibt man noch eine URL ein (hosted packages), von Git Packages, Path Packages, oder SDK Packages.
+
+`dart pub add` - um eine Dependency aus pub.dev in pubspec.yaml File zu tun. Wenn man diese dann brauch einfach im Main-File importieren mit: `import:<>`
